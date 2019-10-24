@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShoppingListBSIT17</string>
+    <string name="placeholder_title">ShoppingItemTitle</string>
+    <string name="placeholder_description">ShoppingItemDescription</string>
+    <string name="placeholder_amount">999 Stk.</string>
+    <string name="image_description">ShoppingItemSource</string>
+</resources>
